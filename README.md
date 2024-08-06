@@ -30,10 +30,7 @@ Para instalar `bc` en sistemas basados en Debian/Ubuntu, usa:
 
    ```bash
    sudo apt-get update
-
-   ```bash
    sudo apt-get install bc
-
 
 
 ## USO
