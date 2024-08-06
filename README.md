@@ -30,13 +30,16 @@ Para utilizar el script, sigue estos pasos:
    
 2. Desplazate a la carpeta
 
-    cd ipcalc
+    ```bash
+   cd ipcalc
 
-3. Otorga permisos de ejecución al script
+4. Otorga permisos de ejecución al script
 
-    chmod +x ipcalc.sh
+    ```bash
+   chmod +x ipcalc.sh
 
-4. prueba el script
+6. prueba el script
 
+    ```bash
    ./ipcalc.sh 192.168.15.10/15
     
