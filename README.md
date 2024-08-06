@@ -27,9 +27,13 @@ Para ejecutar este script, necesitas tener instaladas las siguientes herramienta
 - **bc**: Calculadora de precisión arbitraria. 
 
 Para instalar `bc` en sistemas basados en Debian/Ubuntu, usa:
+  
    ```bash
    sudo apt-get update
+   ```
+   ```bash
    sudo apt-get install bc
+   ```
 
 
 ## USO
