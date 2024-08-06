@@ -59,4 +59,9 @@ Para utilizar el script, sigue estos pasos:
 
     ```bash
    ./ipcalc.sh 192.168.15.10/15
+
+## Vista
+![image](https://github.com/user-attachments/assets/5d005731-b4dc-4347-a5dc-2c31342b3aa2)
+
+
     
