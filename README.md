@@ -19,7 +19,22 @@ El script calcula lo siguiente:
 - La cantidad de hosts válidos (excluyendo la dirección de red y la dirección de broadcast).
 - La clase de red (A, B, C, D/E).
 
-## Uso
+## Requisitos
+
+Para ejecutar este script, necesitas tener instaladas las siguientes herramientas en tu sistema:
+
+- **Bash**: La shell de comandos de Unix.
+- **bc**: Calculadora de precisión arbitraria. 
+
+Para instalar `bc` en sistemas basados en Debian/Ubuntu, usa:
+
+```bash
+sudo apt-get update
+sudo apt-get install bc
+
+
+
+## USO
 
 Para utilizar el script, sigue estos pasos:
 
